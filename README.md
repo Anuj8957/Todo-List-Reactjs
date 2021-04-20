@@ -1,3 +1,22 @@
+#**Before starting your first react App**
+
+You need to have a node js installed on your system.\
+
+# Steps to make code working:
+1 Install node js
+
+2 Open cmd
+
+3 Create react app with command **npx create-react-app my-app**
+
+4 Just switch to inside project location
+
+5 Download these project
+
+6 Replace the files/folders with your project directory
+
+7 and you are ready.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
